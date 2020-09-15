@@ -1,2 +1,2 @@
 theme: jekyll-theme-midnight
-site_url: https://ninja3011.github.io/logismtutorial/gh-pages
+baseurl: "https://ninja3011.github.io/logismtutorial/gh-pages"
