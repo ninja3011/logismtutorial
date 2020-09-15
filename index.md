@@ -3,13 +3,13 @@
 # Getting Started with Logism 
 
 Logism is a simulation environment that can be used by students to get the hang of circuit design. 
-It's simplicity helps you get the hang of the stuff very quick
-At the same time, when you reach more advanced circuits, constrainsts of logism start popping up.
+It's simplicity helps you get the base of the designing quickly
+At the same time, when you reach more advanced circuits, constraints of logism start popping up.
 
 ## Why to learn logism
 
 
-It is the least inertial method of circuit design. You can start designing beautiful circuits from day 1. Without worrying about chip names, which manufacturer, or any of the complex stuff. 
+It is the least inertial method of circuit design I have found. You can start designing circuits from day 1. Without worrying about the chip names, who is the manufacturer, or any of the other complex stuff you have to deal with in other simulators. 
 
 
 ## Installation Link
