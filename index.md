@@ -21,7 +21,7 @@ It is the least inertial method of circuit design. You can start designing beaut
 ## The first screen that opens
 
 
-![empty logism screen](https://github.com/ninja3011/logismtutorial/blob/gh-pages/ltut1.PNG)
+![empty logism screen](/ltut1.PNG)
 
 - On the left, a tab holds all the parts available to create a circuit in logism.
 - On the right, there is an empty workspace to work with. You can drag and drop components here
