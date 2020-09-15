@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Getting Started with Logism 
 
-You can use the [editor on GitHub](https://github.com/ninja3011/logismtutorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Logism is a simulation environment that can be used by students to get the hang of circuit design. 
+It's simplicity helps you get the hang of the stuff very quick
+At the same time, when you reach more advanced circuits, constrainsts of logism start popping up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why to learn logism
 
-### Markdown
+It is the least inertial method of circuit design. You can start designing beautiful circuits from day 1. Without worrying about chip names, which manufacturer, or any of the complex stuff. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation Link
 
-```markdown
-Syntax highlighted code block
+[download logism for windows](https://sourceforge.net/projects/circuit/)
 
-# Header 1
-## Header 2
-### Header 3
+## The first screen that opens
 
-- Bulleted
-- List
+![empty logism screen](https://github.com/ninja3011/logismtutorial/blob/gh-pages/ltut1.PNG)
 
-1. Numbered
-2. List
+- On the left, a tab holds all the parts available to create a circuit in logism.
+- On the right, there is an empty workspace to work with. You can drag and drop components here
+- On the the top are dropdowns to add functionalities and the documentation tab.
 
-**Bold** and _Italic_ and `Code` text
+## The documentation 
 
-[Link](url) and ![Image](src)
-```
+![logism documentation]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Click on help, click on tutorial.
+-Core of Logism's documentation can be found here.
+-Unlike most software tools, the community documentation of logism isnt very strong. The inbuilt documentation provided here would be your regular go to.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninja3011/logismtutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
