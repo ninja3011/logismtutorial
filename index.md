@@ -22,9 +22,19 @@ It is the least inertial method of circuit design. You can start designing beaut
 
 ## The documentation 
 
-![logism documentation]()
+![logism documentation](https://github.com/ninja3011/logismtutorial/blob/gh-pages/ltut2.PNG)
 
--Click on help, click on tutorial.
--Core of Logism's documentation can be found here.
--Unlike most software tools, the community documentation of logism isnt very strong. The inbuilt documentation provided here would be your regular go to.
+- Click on help, click on tutorial.
+- Core of Logism's documentation can be found here
+- Unlike most software tools, the community documentation of logism isnt very strong. The inbuilt documentation provided here would be your regular go to.
+
+## Creating a basic circuit ( taking the half adder circuit as an example)
+
+![making a half adder circuit](https://github.com/ninja3011/logismtutorial/blob/gh-pages/halfadder.gif)
+- The main purpose of this demonstration is to display how easy it is to get started with circuit design
+- Here the sample circuit being created is a half adder circuit.
+- It takes 2 inputs and gives outputs carry and sum. 
+- A double combination of this circuit gives the ful adder which form the atoms of ALUs. 
+
+
 
